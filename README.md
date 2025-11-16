@@ -6,7 +6,7 @@ A tidyverse-based analysis of Bank Rate and Prime Rate movements from 2019–202
 ## **Overview**
 This project analyzes how Canada’s Bank Rate and Prime Rate changed between 2019 and 2025. Using R and tidyverse, it groups interest rates into half-year periods, calculates average values, measures how frequently rate changes occur, and identifies the most common Bank Rate levels. The goal is to provide a clear, beginner-friendly summary of rate behaviour over time.
 
-**Dataset:** [Statistics Canada: Bank of Canada – Interest Rates](https://www150.statcan.gc.ca/t1/tbl1/en/tv.action?pid=1010014501) 
+**Dataset:** [Statistics Canada: Bank of Canada – Interest Rates](https://www150.statcan.gc.ca/t1/tbl1/en/tv.action?pid=1010014501)     
 **Platform:** RStudio  
 **Language:** R  
 **Libraries:** tidyverse (dplyr, tidyr, ggplot2)
