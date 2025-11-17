@@ -13,6 +13,12 @@ This project analyzes how Canada’s Bank Rate and Prime Rate changed between 20
 
 ---
 
+## Project Files
+
+### **All source code and project files are available in the repository’s Code section.**
+
+---
+
 ## **Data Preparation Workflow**
 - Loaded and cleaned the dataset by removing missing values.  
 - Selected essential fields and converted dates to proper date format.  
